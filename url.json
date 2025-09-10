@@ -1,0 +1,8 @@
+{
+    "urls": [
+        "https://api.publicapis.org/entries",
+        "https://catfact.ninja/fact",
+        "https://www.boredapi.com/api/activity",
+        "https://invalid-url-that-will-fail.com"
+    ]
+}
